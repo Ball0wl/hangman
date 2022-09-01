@@ -1,6 +1,6 @@
 import random
 
-woerter = "Baum Tetrahydrocannabinol Krawatte Auto Flagge".split()
+woerter = "Baum Tetrahydrocannabinol Krawatte Auto Flagge Spanien Kavallerie Kanone Rinde Ufo Xylophon Manhattan Sushi Finanzdienstleistungsunternehmen ".split()
 erraten = []
 ratewort = random.choice(woerter)
 nutzereingabe = ""
